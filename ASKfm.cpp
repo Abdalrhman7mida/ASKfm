@@ -1,12 +1,11 @@
-//============================================================================
-// Name        : ASKfm.cpp
-// Author      : fazal haroon
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
 #include <iostream>
+#include<vector>
+#include<map>
+#include<fstream>
+#include<sstream>
+#include<iostream>
+#include<assert.h>
+
 using namespace std;
 
 int main() {
